@@ -2,7 +2,7 @@
 
 # WAON
 ### Large-Scale and High-Quality Japanese Image-Text Pair Dataset for Vision-Language Models
-| [📃Paper](https://arxiv.org/abs/2510.22276) | [🤗Datasets](https://huggingface.co/collections/speed/waon) | [🧑‍💻Code](https://github.com/llm-jp/WAON) |
+| [📃Paper](https://arxiv.org/abs/2510.22276) | [🤗HuggingFace](https://huggingface.co/collections/speed/waon) | [🧑‍💻Code](https://github.com/llm-jp/WAON) |
 
 <img src="assets/validation_top1_accuracy.svg" width="60%"/>
 
